@@ -1,0 +1,14 @@
+class Solution {
+  public int maxSubArray(int[] n) {
+    int ans = Integer.MIN_VALUE;
+    int s = 0;
+
+    for (final int num : n) {
+      s += num;
+      ans = Math.max(ans, s);
+      s = Math.max(s, 0);
+    }
+
+    return ans;
+  }
+}
