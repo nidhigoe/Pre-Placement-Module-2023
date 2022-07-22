@@ -8,6 +8,7 @@
 
 ## Coding Profiles
 - LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/ngoel_14/)
+- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/nidhi4170/)
 - HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/nidhigoel76658)
 
 ## Placement Module
